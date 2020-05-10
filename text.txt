@@ -1,0 +1,9 @@
+<Tilt className="Tilt ma5" options={{ max : 5 }} style={{ height:420, background:"green",width: 450,marginTop:0 }} 
+// style={{display:"flex",justifyContent:"flex-start"}}
+
+// >
+
+// <div className="Tilt-inner" style={{background:"white",height:60, background:"blue",width: 50}} > 
+//  <div className="Tilt-inner"> 👽 </div>
+// </div>
+// </Tilt>
